@@ -10,3 +10,73 @@
 .images{
     display: flex;
 }
+.body{
+    display: flex;
+    gap: 10%;
+}
+.Auctor{
+    display: flex;
+    gap: 10%;
+}
+.gravida{
+    display: flex;
+    gap: 10%;
+}
+.product{
+    text-align: center;
+}
+.idea{
+    display: flex;
+    gap: 5%;
+}
+.price{
+    text-align: center;
+}
+.amazing{
+    display: flex;
+    gap: 10%;
+}
+.enim{
+    display: flex;
+    gap: 10%;
+}
+.sem{
+    display: flex;
+    gap: 10%;
+}
+.popular{
+    display: flex;
+    
+}
+.Blog{
+    display: flex;
+    gap: 10%;
+}
+.clients{
+    text-align: center;
+}
+.menu{
+    display: flex;
+    gap: 10%;
+}
+.store{
+    display: flex;
+    gap: 10%;
+}
+.summer{
+    display: flex;
+    gap: 5%;
+}
+@media screen and(min-width:414)and(max-width:900) {
+    .navbar{
+        font-size: 1px;
+    }
+    .Header{
+        font-size: 2px;
+        gap: 5px;
+    }
+    .images{
+        width: 10%;
+        height: 5%;
+    }
+}
