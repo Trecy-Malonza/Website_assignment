@@ -1,0 +1,12 @@
+.navbar{
+    background-color: green;
+}
+.Header{
+    display: flex;
+    gap: 10%;
+}
+
+
+.images{
+    display: flex;
+}
